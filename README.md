@@ -1,5 +1,5 @@
 ## Olá, meu nome é Adriel Luiz
-### Sou estudante da UFS no curso de sistemas de informação e no momento procuro adentrar no mercado de trabalho de desenvolvedor frontend.
+### Sou estudante da UFS no curso de sistemas de informação.
 
 ### Formas de contato:
 
