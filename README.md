@@ -1,5 +1,5 @@
-## Olá, meu nome é Adriel Luiz
-### Atualmente tenho redirecionado meu tempo de estudos de Frontend com foco em react.js, porém pretendo também ter conhecimentos em Angular e Vue, me interesso também por PHP e Phyton, em breve pretendo iniciar estudos em Backend, como também aprofundar meus conhecimentos em banco de dados. Estudo Sistemas de Informação na UFS e trabalho como aprendiz na Cencosud.
+## Olá, meu nome é Adriel Luiz!
+### Atualmente tenho redirecionado meu tempo de estudos de Frontend com foco em React.JS, quando alcançar um conhecimento razoalvemente sólido pretendo também ter conhecimentos em Angular e Vue, me interesso também por PHP e Phyton, e em breve pretendo iniciar estudos em Backend em PHP, como também aprofundar meus conhecimentos em banco de dados ao qual já tenho certo contato com o PostgreSQL. Estudo Sistemas de Informação na UFS (Universidade Federal de Sergipe) e trabalho como aprendiz na Cencosud.
 
 ### Formas de contato:
 
