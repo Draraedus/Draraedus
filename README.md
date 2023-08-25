@@ -2,7 +2,7 @@
 
 ### Sou apaixonado por tecnologia, programação, computadores, música e jogos. 
 
-### Atualmente tenho redirecionado meu tempo de estudos de Frontend com foco em React.JS, quando alcançar um conhecimento razoalvemente sólido pretendo também ter conhecimentos em Angular e Vue, me interesso também por PHP e Phyton, e em breve pretendo iniciar estudos em Backend em PHP, como também aprofundar meus conhecimentos em banco de dados ao qual já tenho certo contato com o PostgreSQL. Estudo Sistemas de Informação na UFS (Universidade Federal de Sergipe) e trabalho como aprendiz na Cencosud.
+### Atualmente tenho redirecionado meu tempo de estudos de Frontend com foco em React.JS, quando alcançar um conhecimento razoalvemente sólido pretendo também ter conhecimentos em Angular e Vue, me interesso também por PHP e Phyton, e em breve pretendo iniciar estudos em Backend em PHP, como também aprofundar meus conhecimentos em banco de dados ao qual já tenho certo contato com o PostgreSQL e MongoDB. Estudo Sistemas de Informação na UFS (Universidade Federal de Sergipe) e trabalho como aprendiz na Cencosud.
 
 ### Formas de contato:
 
