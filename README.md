@@ -2,7 +2,7 @@
 
 ### Sou apaixonado por tecnologia, programação, computadores, música e jogos. 
 
-### No momento meu foco de estudos está no backend em Java e no frontend em React, porém também já desenvolvi projetos em Swift para IOS e React Native para Mobile. Estudo Sistemas de Informação na UFS (Universidade Federal de Sergipe) e trabalho como aprendiz na Cencosud.
+### No momento meu foco de estudos está no backend em Java e no frontend em React, porém também já desenvolvi projetos em Swift para IOS e React Native para Mobile. Estudo Sistemas de Informação na UFS (Universidade Federal de Sergipe).
 
 ### Formas de contato:
 
