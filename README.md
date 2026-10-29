@@ -1,6 +1,6 @@
 # 👋 Olá, Me chamo Adriel Luiz!  
 
-🎓 Bacharel em *Sistemas de Informação" pela [UFS](https://www.ufs.br/)  
+🎓 Bacharel em *Sistemas de Informação* pela [UFS](https://www.ufs.br/)  
 💻 Apaixonado por **tecnologia, programação, música e jogos**  
 🚀 Focado atualmente em **Backend (Java, Spring Boot, Node.js/Express)** e **Frontend (React/Flutter)**  
 ☁️ Explorando **Cloud Computing (AWS)** e boas práticas de **arquitetura de software**  
