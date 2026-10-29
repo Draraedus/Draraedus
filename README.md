@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Adriel Luiz!  
+# 👋 Olá, Me chamo Adriel Luiz!  
 
-🎓 Estudante de **Sistemas de Informação** na [UFS](https://www.ufs.br/)  
+🎓 Bacharel em *Sistemas de Informação" pela [UFS](https://www.ufs.br/)  
 💻 Apaixonado por **tecnologia, programação, música e jogos**  
-🚀 Focado atualmente em **Backend (Java, Node.js/Express)** e **Frontend (React/React Native)**  
+🚀 Focado atualmente em **Backend (Java, Spring Boot, Node.js/Express)** e **Frontend (React/Flutter)**  
 ☁️ Explorando **Cloud Computing (AWS)** e boas práticas de **arquitetura de software**  
 
 ---
@@ -10,9 +10,6 @@
 ## 🔥 Sobre mim  
 
 Sou desenvolvedor em constante aprendizado, com experiência acadêmica e prática em **desenvolvimento web e mobile**. Busco sempre criar **softwares escaláveis** que impactem positivamente a sociedade, aplicando metodologias ágeis e boas práticas de programação.  
-
-📌 Atualmente, sou **Bolsista de TI (PIBIEX)** no Instituto Federal de Sergipe, onde trabalho com **Python para análise de dados e geração de relatórios gráficos**.  
-📌 Já atuei como **Aprendiz de TI na Cencosud**, dando suporte em infraestrutura, AD, redes e manutenção de máquinas.  
 
 ---
 
